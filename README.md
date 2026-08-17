@@ -1,4 +1,72 @@
-## Hi there 👋
+# Aaron Belcher
+
+### Cloud & Infrastructure | AWS | Terraform
+
+I'm a cybersecurity professional transitioning into cloud and infrastructure engineering, with hands-on experience building and documenting AWS infrastructure using Terraform.
+
+My focus is developing practical skills in cloud architecture, Infrastructure as Code, automation, and Linux-based environments.
+
+## Technologies
+
+**Cloud**
+
+* AWS
+* VPC
+* EC2
+* S3
+* IAM
+* CloudWatch
+
+**Infrastructure as Code**
+
+* Terraform
+* HCL
+
+**Tools & Platforms**
+
+* Linux / WSL
+* Git
+* GitHub
+* VS Code
+
+**Security**
+
+* Security Operations
+* Incident Response
+* Digital Forensics
+* SIEM
+
+## Featured Projects
+
+### Terraform AWS Infrastructure
+
+Building and documenting AWS infrastructure using Terraform as part of a hands-on Infrastructure as Code learning path.
+
+→ [View my Terraform projects](https://github.com/adotbelcher-cloud/Terraform)
+
+## Certifications
+
+* AWS Certified Solutions Architect – Associate
+* GIAC Certified Incident Handler (GCIH)
+* CompTIA CySA+
+* CompTIA Security+
+* AWS Certified Cloud Practitioner
+
+## Currently Learning
+
+* Terraform
+* AWS Infrastructure
+* Infrastructure as Code
+* Cloud Architecture
+* Linux
+* Git & GitHub
+
+## Contact
+
+📧 [adotbelcher@gmail.com](mailto:adotbelcher@gmail.com)
+
+[LinkedIn](YOUR-LINKEDIN-URL) · [GitHub](https://github.com/adotbelcher-cloud)
+
 
 <!--
 **adotbelcher-cloud/adotbelcher-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
