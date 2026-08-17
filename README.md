@@ -65,7 +65,7 @@ Building and documenting AWS infrastructure using Terraform as part of a hands-o
 
 📧 [adotbelcher@gmail.com](mailto:adotbelcher@gmail.com)
 
-[LinkedIn](YOUR-LINKEDIN-URL) · [GitHub](https://github.com/adotbelcher-cloud)
+[LinkedIn](https://www.linkedin.com/in/aaron-belcher) · [GitHub](https://github.com/adotbelcher-cloud)
 
 
 <!--
