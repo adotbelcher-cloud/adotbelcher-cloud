@@ -2,7 +2,7 @@
 
 ### Cloud & Infrastructure | AWS | Terraform
 
-I'm a cybersecurity professional transitioning into cloud and infrastructure engineering, with hands-on experience building and documenting AWS infrastructure using Terraform.
+I'm a cybersecurity professional learning cloud and infrastructure engineering, through hands-on experience building and documenting AWS infrastructure using Terraform.
 
 My focus is developing practical skills in cloud architecture, Infrastructure as Code, automation, and Linux-based environments.
 
