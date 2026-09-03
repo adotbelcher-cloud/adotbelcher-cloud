@@ -2,16 +2,19 @@
 
 ### Cloud & Infrastructure | AWS | Terraform
 
-I'm a cybersecurity professional expanding into cloud and infrastructure engineering through hands-on AWS projects. I build and document infrastructure using Terraform, with a focus on cloud architecture, automation, and Linux environments.
+I'm a cybersecurity professional building hands-on experience in cloud and infrastructure engineering through AWS projects. I design, provision, and document cloud infrastructure using Terraform, with a focus on Infrastructure as Code, cloud architecture, automation, Linux, and security.
 
 ## Technologies
 
-**Cloud**
+**Cloud & AWS**
 
 * AWS
 * VPC
 * EC2
 * S3
+* Lambda
+* API Gateway
+* DynamoDB
 * IAM
 * CloudWatch
 
@@ -26,6 +29,7 @@ I'm a cybersecurity professional expanding into cloud and infrastructure enginee
 * Git
 * GitHub
 * VS Code
+* AWS CLI
 
 **Security**
 
@@ -36,9 +40,17 @@ I'm a cybersecurity professional expanding into cloud and infrastructure enginee
 
 ## Featured Projects
 
+### AWS Serverless Cloud Infrastructure & Security Dashboard
+
+Building a serverless AWS application for tracking cloud infrastructure resources and their security review status.
+
+The project uses Terraform to provision and integrate API Gateway, Lambda, DynamoDB, and IAM, with a focus on Infrastructure as Code, serverless architecture, least-privilege access, API development, and operational visibility.
+
+→ [View the project](https://github.com/adotbelcher-cloud/AWS-Serverless-Security-Dashboard)
+
 ### Terraform AWS Infrastructure
 
-Building and documenting AWS infrastructure using Terraform as part of a hands-on Infrastructure as Code learning path.
+A collection of hands-on AWS infrastructure projects built and documented with Terraform, covering networking, storage, compute, provider configuration, and reusable Infrastructure as Code patterns.
 
 → [View my Terraform projects](https://github.com/adotbelcher-cloud/Terraform)
 
@@ -50,14 +62,13 @@ Building and documenting AWS infrastructure using Terraform as part of a hands-o
 * CompTIA Security+
 * AWS Certified Cloud Practitioner
 
-## Currently Learning
+## Currently Building
 
-* Terraform
-* AWS Infrastructure
-* Infrastructure as Code
-* Cloud Architecture
-* Linux
-* Git & GitHub
+* Serverless AWS architectures
+* Infrastructure automation with Terraform
+* Cloud observability with Amazon CloudWatch
+* Secure AWS infrastructure and IAM
+* Linux-based cloud development workflows
 
 ## Contact
 
