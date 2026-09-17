@@ -1,8 +1,10 @@
 # Aaron Belcher
 
-### Cloud & Infrastructure | AWS | Terraform
+### Cloud & Infrastructure Engineering | AWS | Terraform | Cybersecurity
 
-I'm a cybersecurity professional building hands-on experience in cloud and infrastructure engineering through AWS projects. I design, provision, and document cloud infrastructure using Terraform, with a focus on Infrastructure as Code, cloud architecture, automation, Linux, and security.
+Cybersecurity professional with hands-on experience in security operations, incident response, and digital forensics, now expanding into cloud and infrastructure engineering.
+
+I build and document AWS projects focused on cloud architecture, Infrastructure as Code, containerization, automation, networking, Linux, and security. My current work includes serverless architectures, containerized applications, and AWS infrastructure provisioned with Terraform.
 
 ## Technologies
 
@@ -17,14 +19,23 @@ I'm a cybersecurity professional building hands-on experience in cloud and infra
 * DynamoDB
 * IAM
 * CloudWatch
+* RDS
+* ECS / Fargate
+* ECR
+* SQS
 
-**Infrastructure as Code**
+**Infrastructure & Containers**
 
 * Terraform
 * HCL
+* Docker
+* Docker Compose
 
-**Tools & Platforms**
+**Development & Tools**
 
+* Python
+* FastAPI
+* PostgreSQL
 * Linux / WSL
 * Git
 * GitHub
@@ -37,14 +48,26 @@ I'm a cybersecurity professional building hands-on experience in cloud and infra
 * Incident Response
 * Digital Forensics
 * SIEM
+* Cloud Security
+* IAM / Least Privilege
 
 ## Featured Projects
 
+### CloudCart Microservices
+
+Building a containerized e-commerce microservices platform to develop hands-on experience designing, deploying, and operating workloads on AWS.
+
+The project is being developed progressively using Python, FastAPI, PostgreSQL, Docker, and Docker Compose, with a planned AWS architecture using ECS/Fargate, ECR, RDS PostgreSQL, SQS, Application Load Balancing, CloudWatch, IAM, and VPC networking.
+
+Infrastructure will be provisioned with Terraform and deployment automated through CI/CD with GitHub Actions.
+
+→ [View the project](https://github.com/adotbelcher-cloud/cloudcart-microservices)
+
 ### AWS Serverless Cloud Infrastructure & Security Dashboard
 
-Building a serverless AWS application for tracking cloud infrastructure resources and their security review status.
+Built a serverless AWS application for tracking cloud infrastructure resources and their security review status.
 
-The project uses Terraform to provision and integrate API Gateway, Lambda, DynamoDB, and IAM, with a focus on Infrastructure as Code, serverless architecture, least-privilege access, API development, and operational visibility.
+The project uses Terraform to provision and integrate AWS services including API Gateway, Lambda, DynamoDB, IAM, CloudFront, and Cognito, demonstrating Infrastructure as Code, serverless architecture, authentication, least-privilege access, API development, and operational visibility.
 
 → [View the project](https://github.com/adotbelcher-cloud/AWS-Serverless-Security-Dashboard)
 
@@ -64,30 +87,16 @@ A collection of hands-on AWS infrastructure projects built and documented with T
 
 ## Currently Building
 
-* Serverless AWS architectures
+* Containerized microservices with Docker
+* AWS container infrastructure with ECS and Fargate
+* Relational application architectures with PostgreSQL and Amazon RDS
+* AWS networking and service-to-service communication
 * Infrastructure automation with Terraform
+* CI/CD workflows with GitHub Actions
 * Cloud observability with Amazon CloudWatch
-* Secure AWS infrastructure and IAM
-* Linux-based cloud development workflows
 
 ## Contact
 
 📧 [adotbelcher@gmail.com](mailto:adotbelcher@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/aaron-belcher) · [GitHub](https://github.com/adotbelcher-cloud)
-
-
-<!--
-**adotbelcher-cloud/adotbelcher-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
